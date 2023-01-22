@@ -1,6 +1,4 @@
-# Using my own data rather than the games_sales data was approved by instructors. 
-
-
+ 
 #library(shiny)
 library(leaflet)
 library(tidyverse)
@@ -76,8 +74,9 @@ ui <- fluidPage(
   ),
   
   tags$a("Data source: Caithness District Salmon Fisheries Board, 
-         Yearly Reports on Surveys of Juvenile Salmonids in Caithness Rivers.", 
-         href = "https://caithness.dsfb.org.uk/publications/", "Provided under the terms of the Open Government Licence.")
+         Yearly Reports on Surveys of Juvenile Salmonids in Caithness Rivers. 
+         Provided under the terms of the Open Government Licence.", 
+         href = "https://caithness.dsfb.org.uk/publications/")
 )
 
 
@@ -134,3 +133,4 @@ server <- function(input, output) {
 }
 
 shinyApp(ui, server)
+
