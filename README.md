@@ -19,7 +19,7 @@ https://e4z4az-fiona-carson.shinyapps.io/fish_dashboard/
 
 
 ## Acknowledgements
-I would like to thank Alan Youngson for valuable discussions which aided my understanding of the data and enabled the creation of this dashboard. I would also like to thank Marine Scotland who allow this data to be used under and Open Government Licence. 
+I would like to thank Alan Youngson for valuable discussions which aided my understanding of the data and enabled the creation of this dashboard. I would also like to thank Marine Scotland who allow this data to be used under an Open Government Licence. 
 
 ## References
 Reports on the data used to create this dashboard can be found at the following link:     
